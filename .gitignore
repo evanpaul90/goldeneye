@@ -1,0 +1,6 @@
+node_modules/
+scraped/
+debug-page.html
+google-search.html
+*.html
+!*.md

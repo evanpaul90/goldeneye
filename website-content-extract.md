@@ -134,9 +134,21 @@
 
 ---
 
+## Additional Hotel Details
+
+- **Star Rating:** 2-star (some sources list as inn/budget hotel)
+- **Total Rooms:** 6-7 rooms with modern comforts (boutique, deluxe, standard)
+- **Distance to Beach:** 30 meters from Calangute Beach
+- **Rating:** 4.1/5 on Goibibo (52 reviews)
+- **Additional Facilities:** Water sports center, beach club, vehicle rentals
+- **Bathrooms:** Include bathtub, walk-in shower, separate toilet, hair dryer, bathrobes
+- **Walking distance** from shopping area and main walking street
+
+---
+
 ## Nearby Attractions
 
-- **Calangute Beach** - Direct access (one of Goa's most famous beaches)
+- **Calangute Beach** - Direct access, 30m away (one of Goa's most famous beaches)
 - **Baga Beach** - Short distance north
 - **Calangute Market** - Walking distance
 - Various water sports on the beach
